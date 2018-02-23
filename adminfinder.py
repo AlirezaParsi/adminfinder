@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # This was written for educational purpose only. Use it at your own risk.
 # Author will be not responsible for any damage!
 ################################################################# 
