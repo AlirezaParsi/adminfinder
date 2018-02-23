@@ -11,10 +11,10 @@ import sys
 try:
     print "\t################################################################"
     print "\t#           TCJ ADMIN PAGE FINDER TOOL (Version 1.6)           #"
-    print "\t#                         T.H.C Team                          #"
-    print "\t#            https://www.t.me/thcsecurity          #"
+    print "\t#                         T.H.C Team                           #"
+    print "\t#                https://www.t.me/thcsecurity                  #"
     print "\t#                                                              #"
-    print "\t#                                     Editing By Aliza   #"
+    print "\t#                      Edited By Aliza                         #"
     print "\t################################################################"
     var1=0
     var2=0
